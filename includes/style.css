@@ -1,0 +1,244 @@
+body 
+{
+background-color: #c2d4dd;
+}
+
+#modernwomenartists
+{
+font-size: 42px;
+font-family: 'Marmelad', sans-serif;
+color: #667292;
+text-align: center;
+border-bottom: solid;
+border-bottom-color: mediumaquamarine;
+}
+
+img
+{
+position: relative;
+left: 508px;
+height: 200px;
+width: 200px;
+}
+
+.about
+{
+font-family: sans-serif;
+line-height: 1.8;
+width: 900px;
+position: relative;
+left: 155px;
+background-color:#667292;
+color: #f0f0f0;
+padding-bottom: 5px;
+padding-top: 5px;
+padding-right: 15px; 
+padding-left: 15px;
+border-radius: 40px;
+margin-top: 30px;
+}
+
+.maintable
+{
+position: relative;
+left: 440px;
+margin-top: 45px;
+}
+
+a{
+color: mediumaquamarine;
+font-family: sans-serif;
+}
+
+.navigation_index
+{
+background-color:#667292;
+width: 150px;
+height: 128px;
+border-radius: 25px;
+text-align: center;
+font-family: sans-serif;
+line-height: 1.8;
+font-size: 14px;
+position: relative;
+left: 240px;
+bottom: 155px;
+}
+
+.navigation
+{
+background-color:#667292;
+width: 150px;
+height: 128px;
+margin-top: 20px;
+border-radius: 25px;
+text-align: center;
+font-family: sans-serif;
+line-height: 1.8;
+font-size: 14px;
+}
+
+.navigation_login
+{
+background-color:#667292;
+width: 150px;
+height: 155px;
+margin-top: 20px;
+border-radius: 25px;
+text-align: center;
+font-family: sans-serif;
+line-height: 1.8;
+font-size: 14px;   
+}
+
+label{
+font-family: sans-serif;
+font-size: 14px;
+text-decoration: underline;
+}
+
+legend{
+font-family: sans-serif;
+color: coral;
+}
+
+input[type=submit]
+{
+background-color:coral;
+color: #f0f0f0;
+border-radius: 2px;
+margin: 5px;
+border: 1px solid;
+}
+
+input[type=text]
+{
+margin: 3px;
+}
+
+select
+{
+margin: 3px;    
+}
+
+fieldset
+{
+border-color: lightseagreen;
+}
+
+.logout
+{
+font-family: sans-serif;
+color: #667292; 
+font-size: 18px;
+position: relative;
+left: 521px;
+top: 80px;
+text-decoration: underline;
+}
+
+.yearformat
+{
+font-family: sans-serif;
+color: #667292; 
+font-size: 12px;
+}
+
+.invalidlogin
+{
+font-family: sans-serif;
+color: #667292;
+}
+
+.noartists
+{
+font-family: sans-serif;
+color: #667292;
+}
+
+.noworks
+{
+font-family: sans-serif;
+color: #667292;
+}
+
+.noexhibits
+{
+font-family: sans-serif;
+color: #667292;
+}
+
+.noschools
+{
+font-family: sans-serif;
+color: #667292;    
+}
+
+.addedartist
+{
+font-family: sans-serif;
+color: #667292;   
+}
+
+.addedwork
+{
+font-family: sans-serif;
+color: #667292;      
+}
+
+.addedexhibition
+{
+font-family: sans-serif;
+color: #667292;
+}
+
+.addedschool
+{
+font-family: sans-serif;
+color: #667292;    
+}
+.addedschooltoartist
+{
+font-family: sans-serif;
+color: #667292;     
+}
+
+h2{
+font-family: sans-serif;
+color: #f0f0f0;
+background-color:#667292;
+width: 95px;
+}
+
+h3{
+font-family: sans-serif;
+color:#667292;
+
+}
+
+th
+{
+color: mediumaquamarine;
+font-family: sans-serif;
+height: 30px;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+td
+{
+font-family: sans-serif;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+tr:nth-child(odd){
+    background-color: #667292;
+    color: #f0f0f0;
+    }
+    
+tr:nth-child(even){
+    background-color: #f0f0f0;
+    color: #667292;
+    }
+
